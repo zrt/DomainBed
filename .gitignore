@@ -1,5 +1,6 @@
 __pycache__
 domainbed/facebook.py
+.venv/
 
 domainbed/data/*
 train_output/*

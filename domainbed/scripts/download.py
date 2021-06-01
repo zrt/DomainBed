@@ -265,7 +265,7 @@ if __name__ == "__main__":
     download_pacs(args.data_dir)
     # download_office_home(args.data_dir) #1.13GB
     # download_domain_net(args.data_dir) # 1.27GB slow
-    download_vlcs(args.data_dir)
+    # download_vlcs(args.data_dir) # 3.84GB slow
     download_terra_incognita(args.data_dir)
     download_sviro(args.data_dir)
     # Camelyon17Dataset(root_dir=args.data_dir, download=True)
